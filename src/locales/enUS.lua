@@ -116,6 +116,7 @@ local function enUS()
     ["SECONDS"] = "s",
 
     -- Consumables
+    ["Tea with Sugar"] = true,
     ["Dark Rune"] = true,
     ["Demonic Rune"] = true,
     ["Greater Mana Potion"] = true,

@@ -61,6 +61,15 @@ local consumables = {
     requiredDeficit = 1761,
     type = "ITEM"
   },
+  ["TEA_WITH_SUGAR"] = {
+    name = "Tea with Sugar",
+    key = "TEA_WITH_SUGAR",
+    group = "RUNE",
+    itemId = 15723,
+    iconTexture = "Interface\\Icons\\INV_Drink_15",
+    requiredDeficit = 1751,
+    type = "ITEM"
+  },
   ["DEMONIC_RUNE"] = {
     name = "Demonic Rune",
     key = "DEMONIC_RUNE",
