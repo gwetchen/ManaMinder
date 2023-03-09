@@ -53,6 +53,15 @@ local consumables = {
     requiredDeficit = 2250,
     type = "ITEM"
   },
+  ["DIET_MANA_POTION"] = {
+    name = "Diet McWeaksauce",
+    key = "DIET_MANA_POTION",
+    group = "POTION",
+    itemId = 23578,
+    iconTexture = "Interface\\Icons\\INV_Potion_76",
+    requiredDeficit = 2250,
+    type = "ITEM"
+  },
   ["MAJOR_REJUVENATION_POTION"] = {
     name = "Major Rejuvenation Potion",
     key = "MAJOR_REJUVENATION_POTION",

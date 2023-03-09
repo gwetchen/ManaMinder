@@ -117,6 +117,7 @@ local function enUS()
 
     -- Consumables
     ["Tea with Sugar"] = true,
+    ["Diet McWeaksauce"] = true,
     ["Dark Rune"] = true,
     ["Demonic Rune"] = true,
     ["Greater Mana Potion"] = true,
