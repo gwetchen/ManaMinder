@@ -79,6 +79,15 @@ local consumables = {
     requiredDeficit = 1751,
     type = "ITEM"
   },
+  ["Nordanaar Herbal Tea"] = {
+    name = "Nordanaar Herbal Tea",
+    key = "Nordanaar Herbal Tea",
+    group = "RUNE",
+    itemId = 61675,
+    iconTexture = "Interface\\Icons\\INV_Drink_Milk_05",
+    requiredDeficit = 1751,
+    type = "ITEM"
+  },
   ["DEMONIC_RUNE"] = {
     name = "Demonic Rune",
     key = "DEMONIC_RUNE",
