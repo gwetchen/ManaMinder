@@ -10,7 +10,7 @@ A macro can be created to use the top priority consumable that is off cooldown a
 
 ### Installation ###
 
-* Download the [latest release](https://github.com/GritsUI/ManaMinder/releases)
+* Download the [latest release](https://github.com/melbaa/ManaMinder/archive/refs/heads/master.zip)
 * Unzip the folder and move it to the /Interface/AddOns directory in your WoW installation. Ensure the directory is named "ManaMinder"
 * Restart WoW
 * Click the minimap button or type "/mana config" to configure the addon
