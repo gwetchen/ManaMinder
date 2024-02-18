@@ -133,6 +133,7 @@ local function enUS()
     ["Mana Ruby"] = true,
     ["Minor Mana Potion"] = true,
     ["Superior Mana Potion"] = true,
+    ["Combat Mana Potion"] = true,
 
     -- Items
     ["Enamored Water Spirit"] = true,

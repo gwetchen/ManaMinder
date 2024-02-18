@@ -44,6 +44,15 @@ local consumables = {
     requiredDeficit = 1501,
     type = "ITEM"
   },
+  ["COMBAT_MANA_POTION"] = {
+    name = "Combat Mana Potion",
+    key = "COMBAT_MANA_POTION",
+    group = "POTION",
+    itemId = 18841,
+    iconTexture = "Interface\\Icons\\INV_Potion_81",
+    requiredDeficit = 1501,
+    type = "ITEM"
+  },
   ["MAJOR_MANA_POTION"] = {
     name = "Major Mana Potion",
     key = "MAJOR_MANA_POTION",
